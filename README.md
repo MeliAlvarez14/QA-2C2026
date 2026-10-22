@@ -1,1 +1,4 @@
-# QA-2C2026
+# Taller QA Automation - UNAHUR
+2° Cuatrimestre 2026
+- Estudiante: Alvarez Melina
+
